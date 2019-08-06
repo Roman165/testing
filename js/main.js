@@ -18317,7 +18317,7 @@ $('#range').on('input change',function(){
     }
 ]
         });
-         var marker_image = '../img/maps-and-flags.png';
+         var marker_image = 'img/maps-and-flags.png';
          var marker = new google.maps.Marker({
         position: coordinates,
         map: map,
