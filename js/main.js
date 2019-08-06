@@ -18078,7 +18078,7 @@ $('#range').on('input change',function(){
  		// autoplay: true
  responsive: [
     {
-      breakpoint: 1400,
+      breakpoint: 1200,
       settings: {
         // infinite: true,
         // dots: true
@@ -18106,9 +18106,9 @@ $('#range').on('input change',function(){
 
  		 responsive: [
     {
-      breakpoint: 1400,
+      breakpoint: 1200,
       settings: {
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1,
         // infinite: true,
         // dots: true
